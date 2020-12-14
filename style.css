@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap');
+
+* {
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --primary-color: hsl(217, 28%, 15%);
+    --secondary-color: hsl(218, 28%, 13%);
+    --footer-color: hsl(216, 53%, 9%);
+    --testimoial-color: hsl(219, 30%, 18%);
+    --font-color: hsl(0, 0%, 100%);
+    --cyan: hsl(176, 68%, 64%);
+    --blue: hsl(198, 60%, 50%);
+    --white: hsl(0, 0%, 100%);
+}
+
+/* html {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    color: var(--white);
+    overflow-x: hidden;
+    background-color: var(--primary-color);
+}
+
+.navigation-bar {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+li a {
+    color: var(--white);
+}
+
+.links {
+    list-style-type: none;
+    /* text-decoration: none; */
+
+/* } */
+
+/* .navigation-bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    min-height: 100vh;
+    background: var(--primary-color) 
+    url("./images/bg-curvy-desktop.svg") 
+    bottom no-repeat;
+    color: var(--white);
+    background-size: 100% 270px;
+}  */
+
+/* .main-image img { */
+    /* width: 742px; */
+    /* margin: 538px; */
+/* } */
+
+/* .main-image h2 { */
+    /* width: 742px; */
+    /* margin: 46px; */
+/* } */
+
+/* .main-image p { */
+    /* width: 742px; */
+    /* font-size: 22px; */
+    /* padding: 0 30px; */
+/* } */
+
